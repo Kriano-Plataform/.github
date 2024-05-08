@@ -1,1 +1,1 @@
-# .github
+# Kriano Platform
